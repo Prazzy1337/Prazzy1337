@@ -1,4 +1,4 @@
-<h1 align="center">Hey You Can Cal me Prazzy 👑</h1>
+<h1 align="center">Hey You Can Call me Prazzy 👑</h1>
 <h3 align="center">A passionate coder/developer from India ✔️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prazzy1337&label=Profile%20views&color=0e75b6&style=flat" alt="prazzy1337" /> </p>
