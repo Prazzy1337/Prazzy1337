@@ -1,7 +1,7 @@
-![MasterHead](https://media.discordapp.net/attachments/905752939556110366/908791883529060392/standard.png)
-
-<h1 align="center">Hi 👋, I'm Prasanna aka Prazzy</h1>
+<h1 align="center">Hi ,I'm Prasanna aka Prazzy<h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![MasterHead](http://www.simpleimageresizer.com/_uploads/photos/34e2827c/standard_50.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prazzy1337&label=Profile%20views&color=0e75b6&style=flat" alt="prazzy1337" /> </p>
 
